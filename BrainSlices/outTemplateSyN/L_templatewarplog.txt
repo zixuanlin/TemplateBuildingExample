@@ -1,0 +1,4 @@
+/Users/zixuan/SoftwareLearning/ANTsCode/TemplateBuildingExample/BrainSlices/outTemplateSyN/L_template0warp.nii.gz Max : [0.539161, 0.349294] Min : [0, 0] Mean : [0.0426453, 0.0408931]
+/Users/zixuan/SoftwareLearning/ANTsCode/TemplateBuildingExample/BrainSlices/outTemplateSyN/L_template0warp.nii.gz Max : [0.485033, 0.438116] Min : [0, 0] Mean : [0.028403, 0.0345394]
+/Users/zixuan/SoftwareLearning/ANTsCode/TemplateBuildingExample/BrainSlices/outTemplateSyN/L_template0warp.nii.gz Max : [0.454361, 0.356211] Min : [0, 0] Mean : [0.0283477, 0.0340921]
+/Users/zixuan/SoftwareLearning/ANTsCode/TemplateBuildingExample/BrainSlices/outTemplateSyN/L_template0warp.nii.gz Max : [0.572826, 0.323592] Min : [0, 0] Mean : [0.0269493, 0.0242221]

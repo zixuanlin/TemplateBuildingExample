@@ -1,0 +1,4 @@
+/Users/zixuan/SoftwareLearning/ANTsCode/TemplateBuildingExample/Faces/outTemplateFaces/L_template0warp.nii.gz Max : [0.134819, 0.259024] Min : [0, 0] Mean : [0.0480837, 0.0622169]
+/Users/zixuan/SoftwareLearning/ANTsCode/TemplateBuildingExample/Faces/outTemplateFaces/L_template0warp.nii.gz Max : [0.0917292, 0.295904] Min : [0, 0] Mean : [0.0293974, 0.0435696]
+/Users/zixuan/SoftwareLearning/ANTsCode/TemplateBuildingExample/Faces/outTemplateFaces/L_template0warp.nii.gz Max : [0.0139326, 0.176702] Min : [0, 0] Mean : [0.020873, 0.0402227]
+/Users/zixuan/SoftwareLearning/ANTsCode/TemplateBuildingExample/Faces/outTemplateFaces/L_template0warp.nii.gz Max : [0.0893253, 0.0671069] Min : [0, 0] Mean : [0.0173201, 0.0252306]
